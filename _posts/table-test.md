@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: "Table Test"
+author: "Chotu"
+tags: Tutorial
+permalink: /table-test/
+---
 
 # Here is the title
 
