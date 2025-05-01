@@ -1,8 +1,7 @@
 # Site settings
 title:          coursesdeal
 description:    "Courses Deals"
-baseurl:        "/offers/"
-url:            "https://coursesdeal.github.io"
+
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
